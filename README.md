@@ -6,3 +6,4 @@ curso
 # mudança 2
 
 * git push
+* git pull
